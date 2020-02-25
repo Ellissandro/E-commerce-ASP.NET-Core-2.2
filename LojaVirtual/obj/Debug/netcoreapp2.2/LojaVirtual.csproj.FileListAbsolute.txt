@@ -39,3 +39,6 @@ C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razo
 C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\_ViewStart.cshtml.g.cs
 C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\Home\Painel.cshtml.g.cs
+C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\Categoria\Index.cshtml.g.cs
+C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\Categoria\Atualizar.cshtml.g.cs
+C:\Users\eliss\source\repos\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp2.2\Razor\Areas\Colaborador\Views\Categoria\Cadastrar.cshtml.g.cs
